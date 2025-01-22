@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'Sen-Medium' ;
+    src: url('../font/Sen-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family:'Roboto-Regular' ;
+    src: url('../font/Roboto-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family:'Roboto-bold' ;
+    src: url('../font/Roboto-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family:'Roboto-Semibold' ;
+    src: url('../font/Sen-SemiBold.ttf');
+    font-weight: 600;
+}
